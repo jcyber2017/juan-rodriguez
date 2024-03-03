@@ -1,6 +1,6 @@
 import React from "react";
 
-import profile from "images/perfil.jpeg";
+import profile from "images/travel/pose.jpg";
 
 const Main = () => {
   return (
